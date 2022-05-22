@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.codewars.com/users/John4E656F/badges/small" alt="john4e656f" /></a> </p>
 
-<p align="left"> <a href="https://www.codewars.com/users/Jmark4E656F" target="blank"><img src="https://www.codewars.com/users/Jmark4E656F/badges/small" alt="codewars-john4e656f" /></a> </p>
 <p align="left"> <a href="https://twitter.com/neo_genesis49" target="blank"><img src="https://img.shields.io/twitter/follow/neo_genesis49?logo=twitter&style=for-the-badge" alt="neo_genesis49" /></a> </p>
 
 - 🔭 I’m currently working on **Web & Mobile Development**
