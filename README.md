@@ -15,9 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/John4E656F/](https://github.com/John4E656F/)
 
-- 📝 I regularly write articles on [https://medium.com/@neogenesis49](https://medium.com/@neogenesis49)
-
-- 💬 Ask me about **Html, CSS, Java, Crypto**
+- 💬 Ask me about **Html, CSS, Java, Crypto, React, Redux Toolkit**
 
 - 📫 How to reach me **jm49andres@gmail.com**
 
