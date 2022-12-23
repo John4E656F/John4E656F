@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm john</h1>
-<h3 align="center">A dedicated & passionate Full Stack Web Developer in the making</h3>
+<h3 align="center">A Full Stack Web Developer in the making</h3>
 
 <a href="https://app.daily.dev/4E656F"> <img align="right" src="https://api.daily.dev/devcards/d8ba6c0f622c40c7a10621f67b3f0c0c.png?r=8w7" width="400" alt="4E 65 6F's Dev Card"/></a>
 
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Web & Mobile Development**
 
-- 🌱 I’m currently learning **Web & Mobile Development @Becode**
+- 🌱 I’m currently learning **Web & Mobile Development **
 
 - 👨‍💻 All of my projects are available at [https://github.com/John4E656F/](https://github.com/John4E656F/)
 
-- 💬 Ask me about **Html, CSS, Java, Crypto, React, Redux Toolkit**
+- 💬 Ask me about **Html, CSS, Javascript, Crypto, React, Redux Toolkit**
 
 - 📫 How to reach me **jm49andres@gmail.com**
 
