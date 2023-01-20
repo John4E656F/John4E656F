@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.codewars.com/users/John4E656F/badges/small" alt="john4e656f" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/neo_genesis49" target="blank"><img src="https://img.shields.io/twitter/follow/neo_genesis49?logo=twitter&style=for-the-badge" alt="neo_genesis49" /></a> </p>
-
 - 🔭 I’m currently working on **Web & Mobile Development**
 
 - 🌱 I’m currently learning **Web & Mobile Development **
@@ -35,11 +33,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=john4e656f&show_icons=true&locale=en" alt="john4e656f" /></p>
 
+<a href=#><img alt="github-snake" src="contributions.svg"></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john4e656f&" alt="john4e656f" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
 </div>
