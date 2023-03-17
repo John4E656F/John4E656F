@@ -3,6 +3,7 @@
 
 <a href="https://app.daily.dev/4E656F"> <img align="right" src="https://api.daily.dev/devcards/d8ba6c0f622c40c7a10621f67b3f0c0c.png?r=8w7" width="400" alt="4E 65 6F's Dev Card"/></a>
 
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/john4e656f.png" alt="TryHackMe">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john4e656f&label=Profile%20views&color=0e75b6&style=flat" alt="john4e656f" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.codewars.com/users/John4E656F/badges/small" alt="john4e656f" /></a> </p>
